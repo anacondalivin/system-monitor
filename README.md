@@ -1,4 +1,6 @@
-# PC Data Scraper
+I built this to practice working with system level data in python and to solve a real problem i had monitoring my pc performance.
+
+# System Monitor
 
 A real-time PC health monitor built with Python and psutil.
 
